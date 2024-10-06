@@ -1,0 +1,1 @@
+A Movie Recommendation System based on Netflix data is a machine learning model that suggests movies to users by analyzing their viewing history, preferences, and ratings. The system helps improve user experience by personalizing recommendations and guiding users to content they are likely to enjoy.
